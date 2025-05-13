@@ -41,8 +41,8 @@
 
 #### [VIVIM (웹 에이전시 프로젝트 관리 서비스)](https://github.com/moosoobi/KDEV4-VIVIM-BE)
 - **기간:** 2025.03 ~ 2025.04  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 4명  
+- **역할:** 팀원  
+- **팀 구성:** 백엔드 개발 3명  
 - **서비스:** 웹 에이전시·고객사·개발사를 위한 효율적인 PMS  
 - **주요 기술 및 업무:**  
   - Spring Framework 기반 API 서버 설계·개발  
@@ -50,48 +50,15 @@
   - CI/CD 구축: Jenkins  
   - AWS 배포 및 운영  
 
-#### [TemuOverflow (AI 기반 개발 오류 공유 서비스)](https://github.com/moosoobi/hackerthon4-TemuOverflow)
+#### [Zikbap (직장인 맛집 추천 웹 사이트)](https://github.com/moosoobi/KBE4-hackerthon4-zikbap)
 - **기간:** 2025.03 (해커톤)  
-- **성과:** 해커톤 1등  
 - **역할:** 팀장  
 - **팀 구성:** 백엔드 개발 4명  
 - **서비스:** AI 활용 개발 오류 질의응답 및 공유 커뮤니티  
 - **주요 기술 및 업무:**  
-  - Front 개발: Claude AI 활용  
-  - 채팅·댓글 생성 API: Claude API 사용  
-  - Spring Framework 기반 API 서버 개발  
-  - CI/CD 구축 및 AWS 배포  
+  - Front 개발: Claude AI, Cursor 활용  
+  - Spring Framework 기반 API 서버 개발   
 
-#### [할머니를 부탁해 (메타버스 기반 AI 건강 관리 서비스)](https://github.com/moosoobi/LSPT)
-- **기간:** 2024.04 ~ 2024.10  
-- **성과:** 공모전 입선  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 3명, 프론트 개발 1명  
-- **서비스:** 비대면 메타버스 기반 건강 관리·상담·모니터링  
-- **주요 기술 및 업무:**  
-  - 프론트 개발: Babylon.js 기반 웹 메타버스 멀티플레이  
-  - 멀티플레이 서버 개발: Spring Framework  
-
-#### [칼로리 다이어리 (AI 기반 식단 관리 서비스)](https://github.com/moosoobi/2023_Calorie_Diary)
-- **기간:** 2023.07 ~ 2023.11  
-- **역할:** 팀장  
-- **팀 구성:** 백엔드 개발 3명, 프론트 개발 1명  
-- **서비스:** 음식 사진 인식 기반 식단 관리  
-- **주요 기술 및 업무:**  
-  - 백엔드 API 서버 개발: Flask  
-  - 음식 사진 인식 API 개발: YOLO v5  
-  - 서비스 배포: NCP  
-
-#### [비스꾸리 (AI 기반 관광지 추천 서비스)](https://github.com/moosoobi/2020_hanium_Ai_Tour)
-- **기간:** 2020.03 ~ 2020.10  
-- **성과:** 공모전 입선  
-- **역할:** 백엔드 개발 담당  
-- **팀 구성:** 백엔드 개발 2명, 프론트 개발 1명  
-- **서비스:** 해외 관광지 유사 국내 관광지 추천  
-- **주요 기술 및 업무:**  
-  - 백엔드 서버 개발: Node.js + Express  
-  - 도슨트 서비스 개발: Python  
-  - 클라우드 학습: MS Azure  
 
 
 
